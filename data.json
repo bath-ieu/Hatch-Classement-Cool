@@ -1,11 +1,11 @@
 {
   "season": "20262027",
-  "updated_at": "2026-10-26T08:33:02.909328+00:00",
+  "updated_at": "2026-10-27T08:29:07.339585+00:00",
   "leaderboard": [
     {
       "name": "Olivier Jubelin",
-      "total_points": 493,
-      "att_pts": 284,
+      "total_points": 499,
+      "att_pts": 290,
       "def_pts": 85,
       "goalie_pts": 54,
       "team_pts": 70,
@@ -29,12 +29,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 12,
-          "assists": 11,
-          "points": 35,
+          "assists": 12,
+          "points": 36,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8478864,
@@ -47,7 +47,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8479325,
@@ -80,13 +80,13 @@
           "name": "Artemi Panarin",
           "abbrev": "LAK",
           "position": "A",
-          "goals": 6,
-          "assists": 3,
-          "points": 15,
+          "goals": 7,
+          "assists": 4,
+          "points": 18,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "id": 8485366,
@@ -99,7 +99,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477404,
@@ -138,7 +138,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8479343,
@@ -164,20 +164,20 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8477946,
           "name": "Dylan Larkin",
           "abbrev": "DET",
           "position": "A",
-          "goals": 1,
+          "goals": 2,
           "assists": 4,
-          "points": 6,
+          "points": 8,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8484227,
@@ -229,7 +229,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8479407,
@@ -373,16 +373,16 @@
           "reg_wins": 4,
           "ot_wins": 0,
           "ot_losses": 4,
-          "pts_last": 3
+          "pts_last": 0
         }
       ],
       "trend": "same"
     },
     {
       "name": "Mathieu Huot",
-      "total_points": 485,
-      "att_pts": 194,
-      "def_pts": 152,
+      "total_points": 494,
+      "att_pts": 200,
+      "def_pts": 155,
       "goalie_pts": 66,
       "team_pts": 73,
       "skaters": [
@@ -405,12 +405,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 12,
-          "assists": 11,
-          "points": 35,
+          "assists": 12,
+          "points": 36,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8480839,
@@ -436,7 +436,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8479345,
@@ -475,7 +475,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8481605,
@@ -514,7 +514,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8479343,
@@ -540,20 +540,20 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8477946,
           "name": "Dylan Larkin",
           "abbrev": "DET",
           "position": "A",
-          "goals": 1,
+          "goals": 2,
           "assists": 4,
-          "points": 6,
+          "points": 8,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8484762,
@@ -574,12 +574,12 @@
           "abbrev": "DET",
           "position": "A",
           "goals": 3,
-          "assists": 6,
-          "points": 12,
+          "assists": 8,
+          "points": 14,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8481604,
@@ -587,12 +587,12 @@
           "abbrev": "NYR",
           "position": "A",
           "goals": 3,
-          "assists": 4,
-          "points": 10,
+          "assists": 5,
+          "points": 11,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8475754,
@@ -638,13 +638,13 @@
           "name": "Brandt Clarke",
           "abbrev": "LAK",
           "position": "D",
-          "goals": 2,
+          "goals": 3,
           "assists": 5,
-          "points": 16,
+          "points": 19,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "id": 8480002,
@@ -755,388 +755,12 @@
       "trend": "same"
     },
     {
-      "name": "Hakjun Oh",
-      "total_points": 447,
-      "att_pts": 269,
-      "def_pts": 61,
-      "goalie_pts": 43,
-      "team_pts": 74,
-      "skaters": [
-        {
-          "id": 8477492,
-          "name": "Nathan MacKinnon",
-          "abbrev": "COL",
-          "position": "A",
-          "goals": 7,
-          "assists": 14,
-          "points": 28,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 1
-        },
-        {
-          "id": 8484801,
-          "name": "Macklin Celebrini",
-          "abbrev": "SJS",
-          "position": "A",
-          "goals": 5,
-          "assists": 10,
-          "points": 20,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8480839,
-          "name": "Rasmus Dahlin",
-          "abbrev": "BUF",
-          "position": "D",
-          "goals": 2,
-          "assists": 3,
-          "points": 12,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8481559,
-          "name": "Jack Hughes",
-          "abbrev": "NJD",
-          "position": "A",
-          "goals": 3,
-          "assists": 9,
-          "points": 15,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8481540,
-          "name": "Cole Caufield",
-          "abbrev": "MTL",
-          "position": "A",
-          "goals": 6,
-          "assists": 4,
-          "points": 16,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 2
-        },
-        {
-          "id": 8478550,
-          "name": "Artemi Panarin",
-          "abbrev": "LAK",
-          "position": "A",
-          "goals": 6,
-          "assists": 3,
-          "points": 15,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8478420,
-          "name": "Mikko Rantanen",
-          "abbrev": "DAL",
-          "position": "A",
-          "goals": 6,
-          "assists": 8,
-          "points": 20,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 2
-        },
-        {
-          "id": 8477404,
-          "name": "Jake Guentzel",
-          "abbrev": "TBL",
-          "position": "A",
-          "goals": 7,
-          "assists": 5,
-          "points": 19,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8480801,
-          "name": "Brady Tkachuk",
-          "abbrev": "FLA",
-          "position": "A",
-          "goals": 7,
-          "assists": 5,
-          "points": 19,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 1
-        },
-        {
-          "id": 8476459,
-          "name": "Mika Zibanejad",
-          "abbrev": "NYR",
-          "position": "A",
-          "goals": 3,
-          "assists": 8,
-          "points": 14,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8479314,
-          "name": "Matthew Tkachuk",
-          "abbrev": "FLA",
-          "position": "A",
-          "goals": 4,
-          "assists": 12,
-          "points": 20,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 2
-        },
-        {
-          "id": 8476887,
-          "name": "Filip Forsberg",
-          "abbrev": "NSH",
-          "position": "A",
-          "goals": 2,
-          "assists": 9,
-          "points": 13,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 4
-        },
-        {
-          "id": 8478397,
-          "name": "Rasmus Andersson",
-          "abbrev": "VGK",
-          "position": "D",
-          "goals": 2,
-          "assists": 3,
-          "points": 12,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8486067,
-          "name": "Gavin McKenna",
-          "abbrev": "TOR",
-          "position": "A",
-          "goals": 3,
-          "assists": 5,
-          "points": 11,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8480830,
-          "name": "Andrei Svechnikov",
-          "abbrev": "CAR",
-          "position": "A",
-          "goals": 6,
-          "assists": 6,
-          "points": 18,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8480893,
-          "name": "Kirill Marchenko",
-          "abbrev": "TOR",
-          "position": "A",
-          "goals": 6,
-          "assists": 8,
-          "points": 20,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8476462,
-          "name": "Dougie Hamilton",
-          "abbrev": "NJD",
-          "position": "D",
-          "goals": 1,
-          "assists": 4,
-          "points": 11,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8481581,
-          "name": "Thomas Harley",
-          "abbrev": "DAL",
-          "position": "D",
-          "goals": 0,
-          "assists": 5,
-          "points": 10,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 2
-        },
-        {
-          "id": 8483495,
-          "name": "Simon Nemec",
-          "abbrev": "CGY",
-          "position": "D",
-          "goals": 0,
-          "assists": 3,
-          "points": 6,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8478010,
-          "name": "Brayden Point",
-          "abbrev": "TBL",
-          "position": "A",
-          "goals": 2,
-          "assists": 7,
-          "points": 11,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8477346,
-          "name": "MacKenzie Weegar",
-          "abbrev": "UTA",
-          "position": "D",
-          "goals": 2,
-          "assists": 2,
-          "points": 10,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8482737,
-          "name": "Zachary Bolduc",
-          "abbrev": "MTL",
-          "position": "A",
-          "goals": 4,
-          "assists": 2,
-          "points": 10,
-          "wins": 0,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        }
-      ],
-      "goalies": [
-        {
-          "id": 8476883,
-          "name": "Andrei Vasilevskiy",
-          "abbrev": "TBL",
-          "position": "G",
-          "goals": 0,
-          "assists": 0,
-          "points": 20,
-          "wins": 5,
-          "shutouts": 0,
-          "otLosses": 0,
-          "pts_last": 0
-        },
-        {
-          "id": 8475809,
-          "name": "Scott Wedgewood",
-          "abbrev": "COL",
-          "position": "G",
-          "goals": 0,
-          "assists": 0,
-          "points": 5,
-          "wins": 1,
-          "shutouts": 0,
-          "otLosses": 1,
-          "pts_last": 0
-        },
-        {
-          "id": 8474593,
-          "name": "Jacob Markstrom",
-          "abbrev": "FLA",
-          "position": "G",
-          "goals": 0,
-          "assists": 0,
-          "points": 18,
-          "wins": 3,
-          "shutouts": 1,
-          "otLosses": 1,
-          "pts_last": 0
-        }
-      ],
-      "teams": [
-        {
-          "name": "Florida Panthers",
-          "abbrev": "FLA",
-          "points": 18,
-          "reg_wins": 4,
-          "ot_wins": 2,
-          "ot_losses": 2,
-          "pts_last": 3
-        },
-        {
-          "name": "Edmonton Oilers",
-          "abbrev": "EDM",
-          "points": 23,
-          "reg_wins": 6,
-          "ot_wins": 2,
-          "ot_losses": 1,
-          "pts_last": 0
-        },
-        {
-          "name": "New Jersey Devils",
-          "abbrev": "NJD",
-          "points": 19,
-          "reg_wins": 5,
-          "ot_wins": 2,
-          "ot_losses": 0,
-          "pts_last": 0
-        },
-        {
-          "name": "San Jose Sharks",
-          "abbrev": "SJS",
-          "points": 14,
-          "reg_wins": 1,
-          "ot_wins": 5,
-          "ot_losses": 1,
-          "pts_last": 0
-        }
-      ],
-      "trend": "same"
-    },
-    {
       "name": "Alondra Rima",
-      "total_points": 446,
-      "att_pts": 264,
-      "def_pts": 63,
+      "total_points": 456,
+      "att_pts": 269,
+      "def_pts": 67,
       "goalie_pts": 46,
-      "team_pts": 73,
+      "team_pts": 74,
       "skaters": [
         {
           "id": 8478402,
@@ -1144,12 +768,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 8,
-          "assists": 25,
-          "points": 41,
+          "assists": 26,
+          "points": 42,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8484801,
@@ -1175,7 +799,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8480018,
@@ -1201,20 +825,20 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8478550,
           "name": "Artemi Panarin",
           "abbrev": "LAK",
           "position": "A",
-          "goals": 6,
-          "assists": 3,
-          "points": 15,
+          "goals": 7,
+          "assists": 4,
+          "points": 18,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "id": 8485366,
@@ -1227,7 +851,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477493,
@@ -1331,7 +955,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8479987,
@@ -1370,7 +994,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8483495,
@@ -1378,12 +1002,12 @@
           "abbrev": "CGY",
           "position": "D",
           "goals": 0,
-          "assists": 3,
-          "points": 6,
+          "assists": 5,
+          "points": 10,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 4
         },
         {
           "id": 8476454,
@@ -1391,12 +1015,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 1,
-          "assists": 1,
-          "points": 3,
+          "assists": 2,
+          "points": 4,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8482702,
@@ -1437,7 +1061,7 @@
           "wins": 6,
           "shutouts": 3,
           "otLosses": 1,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8479406,
@@ -1474,16 +1098,16 @@
           "reg_wins": 4,
           "ot_wins": 3,
           "ot_losses": 1,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Edmonton Oilers",
           "abbrev": "EDM",
-          "points": 23,
+          "points": 24,
           "reg_wins": 6,
           "ot_wins": 2,
-          "ot_losses": 1,
-          "pts_last": 0
+          "ot_losses": 2,
+          "pts_last": 1
         },
         {
           "name": "New York Islanders",
@@ -1504,12 +1128,388 @@
           "pts_last": 0
         }
       ],
-      "trend": "same"
+      "trend": "up"
+    },
+    {
+      "name": "Hakjun Oh",
+      "total_points": 455,
+      "att_pts": 272,
+      "def_pts": 65,
+      "goalie_pts": 43,
+      "team_pts": 75,
+      "skaters": [
+        {
+          "id": 8477492,
+          "name": "Nathan MacKinnon",
+          "abbrev": "COL",
+          "position": "A",
+          "goals": 7,
+          "assists": 14,
+          "points": 28,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8484801,
+          "name": "Macklin Celebrini",
+          "abbrev": "SJS",
+          "position": "A",
+          "goals": 5,
+          "assists": 10,
+          "points": 20,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8480839,
+          "name": "Rasmus Dahlin",
+          "abbrev": "BUF",
+          "position": "D",
+          "goals": 2,
+          "assists": 3,
+          "points": 12,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8481559,
+          "name": "Jack Hughes",
+          "abbrev": "NJD",
+          "position": "A",
+          "goals": 3,
+          "assists": 9,
+          "points": 15,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8481540,
+          "name": "Cole Caufield",
+          "abbrev": "MTL",
+          "position": "A",
+          "goals": 6,
+          "assists": 4,
+          "points": 16,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8478550,
+          "name": "Artemi Panarin",
+          "abbrev": "LAK",
+          "position": "A",
+          "goals": 7,
+          "assists": 4,
+          "points": 18,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 3
+        },
+        {
+          "id": 8478420,
+          "name": "Mikko Rantanen",
+          "abbrev": "DAL",
+          "position": "A",
+          "goals": 6,
+          "assists": 8,
+          "points": 20,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8477404,
+          "name": "Jake Guentzel",
+          "abbrev": "TBL",
+          "position": "A",
+          "goals": 7,
+          "assists": 5,
+          "points": 19,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8480801,
+          "name": "Brady Tkachuk",
+          "abbrev": "FLA",
+          "position": "A",
+          "goals": 7,
+          "assists": 5,
+          "points": 19,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8476459,
+          "name": "Mika Zibanejad",
+          "abbrev": "NYR",
+          "position": "A",
+          "goals": 3,
+          "assists": 8,
+          "points": 14,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8479314,
+          "name": "Matthew Tkachuk",
+          "abbrev": "FLA",
+          "position": "A",
+          "goals": 4,
+          "assists": 12,
+          "points": 20,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8476887,
+          "name": "Filip Forsberg",
+          "abbrev": "NSH",
+          "position": "A",
+          "goals": 2,
+          "assists": 9,
+          "points": 13,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8478397,
+          "name": "Rasmus Andersson",
+          "abbrev": "VGK",
+          "position": "D",
+          "goals": 2,
+          "assists": 3,
+          "points": 12,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8486067,
+          "name": "Gavin McKenna",
+          "abbrev": "TOR",
+          "position": "A",
+          "goals": 3,
+          "assists": 5,
+          "points": 11,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8480830,
+          "name": "Andrei Svechnikov",
+          "abbrev": "CAR",
+          "position": "A",
+          "goals": 6,
+          "assists": 6,
+          "points": 18,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8480893,
+          "name": "Kirill Marchenko",
+          "abbrev": "TOR",
+          "position": "A",
+          "goals": 6,
+          "assists": 8,
+          "points": 20,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8476462,
+          "name": "Dougie Hamilton",
+          "abbrev": "NJD",
+          "position": "D",
+          "goals": 1,
+          "assists": 4,
+          "points": 11,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8481581,
+          "name": "Thomas Harley",
+          "abbrev": "DAL",
+          "position": "D",
+          "goals": 0,
+          "assists": 5,
+          "points": 10,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8483495,
+          "name": "Simon Nemec",
+          "abbrev": "CGY",
+          "position": "D",
+          "goals": 0,
+          "assists": 5,
+          "points": 10,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 4
+        },
+        {
+          "id": 8478010,
+          "name": "Brayden Point",
+          "abbrev": "TBL",
+          "position": "A",
+          "goals": 2,
+          "assists": 7,
+          "points": 11,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8477346,
+          "name": "MacKenzie Weegar",
+          "abbrev": "UTA",
+          "position": "D",
+          "goals": 2,
+          "assists": 2,
+          "points": 10,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8482737,
+          "name": "Zachary Bolduc",
+          "abbrev": "MTL",
+          "position": "A",
+          "goals": 4,
+          "assists": 2,
+          "points": 10,
+          "wins": 0,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        }
+      ],
+      "goalies": [
+        {
+          "id": 8476883,
+          "name": "Andrei Vasilevskiy",
+          "abbrev": "TBL",
+          "position": "G",
+          "goals": 0,
+          "assists": 0,
+          "points": 20,
+          "wins": 5,
+          "shutouts": 0,
+          "otLosses": 0,
+          "pts_last": 0
+        },
+        {
+          "id": 8475809,
+          "name": "Scott Wedgewood",
+          "abbrev": "COL",
+          "position": "G",
+          "goals": 0,
+          "assists": 0,
+          "points": 5,
+          "wins": 1,
+          "shutouts": 0,
+          "otLosses": 1,
+          "pts_last": 0
+        },
+        {
+          "id": 8474593,
+          "name": "Jacob Markstrom",
+          "abbrev": "FLA",
+          "position": "G",
+          "goals": 0,
+          "assists": 0,
+          "points": 18,
+          "wins": 3,
+          "shutouts": 1,
+          "otLosses": 1,
+          "pts_last": 0
+        }
+      ],
+      "teams": [
+        {
+          "name": "Florida Panthers",
+          "abbrev": "FLA",
+          "points": 18,
+          "reg_wins": 4,
+          "ot_wins": 2,
+          "ot_losses": 2,
+          "pts_last": 0
+        },
+        {
+          "name": "Edmonton Oilers",
+          "abbrev": "EDM",
+          "points": 24,
+          "reg_wins": 6,
+          "ot_wins": 2,
+          "ot_losses": 2,
+          "pts_last": 1
+        },
+        {
+          "name": "New Jersey Devils",
+          "abbrev": "NJD",
+          "points": 19,
+          "reg_wins": 5,
+          "ot_wins": 2,
+          "ot_losses": 0,
+          "pts_last": 0
+        },
+        {
+          "name": "San Jose Sharks",
+          "abbrev": "SJS",
+          "points": 14,
+          "reg_wins": 1,
+          "ot_wins": 5,
+          "ot_losses": 1,
+          "pts_last": 0
+        }
+      ],
+      "trend": "down"
     },
     {
       "name": "Nicolas St-Pierre",
-      "total_points": 422,
-      "att_pts": 193,
+      "total_points": 427,
+      "att_pts": 198,
       "def_pts": 94,
       "goalie_pts": 64,
       "team_pts": 71,
@@ -1538,7 +1538,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 5
+          "pts_last": 0
         },
         {
           "id": 8477956,
@@ -1559,25 +1559,25 @@
           "abbrev": "TOR",
           "position": "A",
           "goals": 9,
-          "assists": 10,
-          "points": 28,
+          "assists": 11,
+          "points": 29,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8477939,
           "name": "William Nylander",
           "abbrev": "TOR",
           "position": "A",
-          "goals": 8,
+          "goals": 9,
           "assists": 10,
-          "points": 26,
+          "points": 28,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8482740,
@@ -1590,7 +1590,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8485366,
@@ -1603,7 +1603,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477493,
@@ -1675,13 +1675,13 @@
           "name": "Dylan Larkin",
           "abbrev": "DET",
           "position": "A",
-          "goals": 1,
+          "goals": 2,
           "assists": 4,
-          "points": 6,
+          "points": 8,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8486067,
@@ -1707,7 +1707,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8480893,
@@ -1746,7 +1746,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8485406,
@@ -1850,7 +1850,7 @@
           "reg_wins": 4,
           "ot_wins": 3,
           "ot_losses": 1,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Tampa Bay Lightning",
@@ -1880,15 +1880,15 @@
           "pts_last": 0
         }
       ],
-      "trend": "up"
+      "trend": "same"
     },
     {
       "name": "Alain Roy",
-      "total_points": 418,
+      "total_points": 423,
       "att_pts": 221,
-      "def_pts": 87,
+      "def_pts": 91,
       "goalie_pts": 42,
-      "team_pts": 68,
+      "team_pts": 69,
       "skaters": [
         {
           "id": 8480069,
@@ -1914,7 +1914,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477956,
@@ -1953,7 +1953,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8471675,
@@ -1979,7 +1979,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477493,
@@ -2031,7 +2031,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8480208,
@@ -2083,7 +2083,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8484387,
@@ -2130,12 +2130,12 @@
           "abbrev": "CGY",
           "position": "D",
           "goals": 0,
-          "assists": 3,
-          "points": 6,
+          "assists": 5,
+          "points": 10,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 4
         },
         {
           "id": 8478010,
@@ -2231,11 +2231,11 @@
         {
           "name": "Edmonton Oilers",
           "abbrev": "EDM",
-          "points": 23,
+          "points": 24,
           "reg_wins": 6,
           "ot_wins": 2,
-          "ot_losses": 1,
-          "pts_last": 0
+          "ot_losses": 2,
+          "pts_last": 1
         },
         {
           "name": "Philadelphia Flyers",
@@ -2256,15 +2256,15 @@
           "pts_last": 0
         }
       ],
-      "trend": "down"
+      "trend": "same"
     },
     {
       "name": "Alexandre Neal",
-      "total_points": 415,
-      "att_pts": 233,
+      "total_points": 421,
+      "att_pts": 236,
       "def_pts": 96,
       "goalie_pts": 20,
-      "team_pts": 66,
+      "team_pts": 69,
       "skaters": [
         {
           "id": 8478402,
@@ -2272,12 +2272,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 8,
-          "assists": 25,
-          "points": 41,
+          "assists": 26,
+          "points": 42,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8483457,
@@ -2290,7 +2290,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477956,
@@ -2323,13 +2323,13 @@
           "name": "William Nylander",
           "abbrev": "TOR",
           "position": "A",
-          "goals": 8,
+          "goals": 9,
           "assists": 10,
-          "points": 26,
+          "points": 28,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8471675,
@@ -2355,7 +2355,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8481605,
@@ -2394,7 +2394,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8479314,
@@ -2407,7 +2407,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8480208,
@@ -2433,7 +2433,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8484873,
@@ -2459,7 +2459,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8481524,
@@ -2602,7 +2602,7 @@
           "reg_wins": 3,
           "ot_wins": 3,
           "ot_losses": 2,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Boston Bruins",
@@ -2616,11 +2616,11 @@
         {
           "name": "Los Angeles Kings",
           "abbrev": "LAK",
-          "points": 7,
-          "reg_wins": 1,
+          "points": 10,
+          "reg_wins": 2,
           "ot_wins": 1,
           "ot_losses": 2,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "name": "Winnipeg Jets",
@@ -2636,11 +2636,11 @@
     },
     {
       "name": "Yanick Tremblay",
-      "total_points": 408,
+      "total_points": 415,
       "att_pts": 204,
       "def_pts": 123,
       "goalie_pts": 22,
-      "team_pts": 59,
+      "team_pts": 66,
       "skaters": [
         {
           "id": 8477492,
@@ -2653,7 +2653,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8483457,
@@ -2666,7 +2666,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477956,
@@ -2705,7 +2705,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8480036,
@@ -2731,7 +2731,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8481605,
@@ -2770,7 +2770,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8479314,
@@ -2783,7 +2783,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8483431,
@@ -2835,7 +2835,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8482720,
@@ -2861,7 +2861,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 5
+          "pts_last": 0
         },
         {
           "id": 8477955,
@@ -2978,45 +2978,45 @@
           "reg_wins": 3,
           "ot_wins": 3,
           "ot_losses": 2,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Edmonton Oilers",
           "abbrev": "EDM",
-          "points": 23,
+          "points": 24,
           "reg_wins": 6,
           "ot_wins": 2,
-          "ot_losses": 1,
-          "pts_last": 0
+          "ot_losses": 2,
+          "pts_last": 1
         },
         {
           "name": "Los Angeles Kings",
           "abbrev": "LAK",
-          "points": 7,
-          "reg_wins": 1,
+          "points": 10,
+          "reg_wins": 2,
           "ot_wins": 1,
           "ot_losses": 2,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "name": "Calgary Flames",
           "abbrev": "CGY",
-          "points": 12,
-          "reg_wins": 4,
+          "points": 15,
+          "reg_wins": 5,
           "ot_wins": 0,
           "ot_losses": 0,
-          "pts_last": 0
+          "pts_last": 3
         }
       ],
       "trend": "same"
     },
     {
       "name": "Antoine Duguay",
-      "total_points": 403,
-      "att_pts": 277,
+      "total_points": 408,
+      "att_pts": 279,
       "def_pts": 41,
       "goalie_pts": 32,
-      "team_pts": 53,
+      "team_pts": 56,
       "skaters": [
         {
           "id": 8478402,
@@ -3024,12 +3024,12 @@
           "abbrev": "EDM",
           "position": "A",
           "goals": 8,
-          "assists": 25,
-          "points": 41,
+          "assists": 26,
+          "points": 42,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8480800,
@@ -3042,7 +3042,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 5
+          "pts_last": 0
         },
         {
           "id": 8480027,
@@ -3055,7 +3055,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8480018,
@@ -3081,7 +3081,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8482740,
@@ -3094,7 +3094,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8478403,
@@ -3146,7 +3146,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8479314,
@@ -3159,7 +3159,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8476887,
@@ -3172,7 +3172,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 4
+          "pts_last": 0
         },
         {
           "id": 8475166,
@@ -3211,7 +3211,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8481604,
@@ -3219,12 +3219,12 @@
           "abbrev": "NYR",
           "position": "A",
           "goals": 3,
-          "assists": 4,
-          "points": 10,
+          "assists": 5,
+          "points": 11,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 1
         },
         {
           "id": 8474564,
@@ -3237,7 +3237,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 5
+          "pts_last": 0
         },
         {
           "id": 8477955,
@@ -3368,11 +3368,11 @@
         {
           "name": "Los Angeles Kings",
           "abbrev": "LAK",
-          "points": 7,
-          "reg_wins": 1,
+          "points": 10,
+          "reg_wins": 2,
           "ot_wins": 1,
           "ot_losses": 2,
-          "pts_last": 0
+          "pts_last": 3
         },
         {
           "name": "San Jose Sharks",
@@ -3418,7 +3418,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477956,
@@ -3457,7 +3457,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8471675,
@@ -3483,7 +3483,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8481605,
@@ -3613,7 +3613,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 5
+          "pts_last": 0
         },
         {
           "id": 8481581,
@@ -3626,7 +3626,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8485391,
@@ -3730,7 +3730,7 @@
           "reg_wins": 3,
           "ot_wins": 3,
           "ot_losses": 2,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Tampa Bay Lightning",
@@ -3764,9 +3764,9 @@
     },
     {
       "name": "Jean-Philip Tremblay",
-      "total_points": 373,
-      "att_pts": 195,
-      "def_pts": 79,
+      "total_points": 379,
+      "att_pts": 197,
+      "def_pts": 83,
       "goalie_pts": 35,
       "team_pts": 64,
       "skaters": [
@@ -3833,7 +3833,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 2
+          "pts_last": 0
         },
         {
           "id": 8484144,
@@ -3846,7 +3846,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8485366,
@@ -3859,7 +3859,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "id": 8477493,
@@ -3963,7 +3963,7 @@
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 1
+          "pts_last": 0
         },
         {
           "id": 8484387,
@@ -4010,12 +4010,12 @@
           "abbrev": "CGY",
           "position": "D",
           "goals": 0,
-          "assists": 3,
-          "points": 6,
+          "assists": 5,
+          "points": 10,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 4
         },
         {
           "id": 8478010,
@@ -4035,13 +4035,13 @@
           "name": "J.T. Miller",
           "abbrev": "NYR",
           "position": "A",
-          "goals": 3,
+          "goals": 4,
           "assists": 6,
-          "points": 12,
+          "points": 14,
           "wins": 0,
           "shutouts": 0,
           "otLosses": 0,
-          "pts_last": 0
+          "pts_last": 2
         },
         {
           "id": 8481618,
@@ -4106,7 +4106,7 @@
           "reg_wins": 3,
           "ot_wins": 3,
           "ot_losses": 2,
-          "pts_last": 3
+          "pts_last": 0
         },
         {
           "name": "Buffalo Sabres",
@@ -4159,12 +4159,12 @@
       "abbrev": "EDM",
       "position": "A",
       "goals": 12,
-      "assists": 11,
-      "points": 35,
+      "assists": 12,
+      "points": 36,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 1
     },
     {
       "id": 8478864,
@@ -4177,7 +4177,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 3
+      "pts_last": 0
     },
     {
       "id": 8479325,
@@ -4210,13 +4210,13 @@
       "name": "Artemi Panarin",
       "abbrev": "LAK",
       "position": "A",
-      "goals": 6,
-      "assists": 3,
-      "points": 15,
+      "goals": 7,
+      "assists": 4,
+      "points": 18,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 3
     },
     {
       "id": 8485366,
@@ -4229,7 +4229,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 3
+      "pts_last": 0
     },
     {
       "id": 8477404,
@@ -4268,7 +4268,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 1
+      "pts_last": 0
     },
     {
       "id": 8479343,
@@ -4294,20 +4294,20 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 4
+      "pts_last": 0
     },
     {
       "id": 8477946,
       "name": "Dylan Larkin",
       "abbrev": "DET",
       "position": "A",
-      "goals": 1,
+      "goals": 2,
       "assists": 4,
-      "points": 6,
+      "points": 8,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 2
     },
     {
       "id": 8484227,
@@ -4359,7 +4359,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 1
+      "pts_last": 0
     },
     {
       "id": 8479407,
@@ -4502,7 +4502,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 2
+      "pts_last": 0
     },
     {
       "id": 8479345,
@@ -4575,12 +4575,12 @@
       "abbrev": "DET",
       "position": "A",
       "goals": 3,
-      "assists": 6,
-      "points": 12,
+      "assists": 8,
+      "points": 14,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 2
     },
     {
       "id": 8481604,
@@ -4588,12 +4588,12 @@
       "abbrev": "NYR",
       "position": "A",
       "goals": 3,
-      "assists": 4,
-      "points": 10,
+      "assists": 5,
+      "points": 11,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 1
     },
     {
       "id": 8475754,
@@ -4626,13 +4626,13 @@
       "name": "Brandt Clarke",
       "abbrev": "LAK",
       "position": "D",
-      "goals": 2,
+      "goals": 3,
       "assists": 5,
-      "points": 16,
+      "points": 19,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 3
     },
     {
       "id": 8481618,
@@ -4661,13 +4661,13 @@
       "pts_last": 0
     },
     {
-      "id": 8477492,
-      "name": "Nathan MacKinnon",
-      "abbrev": "COL",
+      "id": 8478402,
+      "name": "Connor McDavid",
+      "abbrev": "EDM",
       "position": "A",
-      "goals": 7,
-      "assists": 14,
-      "points": 28,
+      "goals": 8,
+      "assists": 26,
+      "points": 42,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
@@ -4687,214 +4687,6 @@
       "pts_last": 0
     },
     {
-      "id": 8481559,
-      "name": "Jack Hughes",
-      "abbrev": "NJD",
-      "position": "A",
-      "goals": 3,
-      "assists": 9,
-      "points": 15,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8481540,
-      "name": "Cole Caufield",
-      "abbrev": "MTL",
-      "position": "A",
-      "goals": 6,
-      "assists": 4,
-      "points": 16,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 2
-    },
-    {
-      "id": 8478420,
-      "name": "Mikko Rantanen",
-      "abbrev": "DAL",
-      "position": "A",
-      "goals": 6,
-      "assists": 8,
-      "points": 20,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 2
-    },
-    {
-      "id": 8480801,
-      "name": "Brady Tkachuk",
-      "abbrev": "FLA",
-      "position": "A",
-      "goals": 7,
-      "assists": 5,
-      "points": 19,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 1
-    },
-    {
-      "id": 8476459,
-      "name": "Mika Zibanejad",
-      "abbrev": "NYR",
-      "position": "A",
-      "goals": 3,
-      "assists": 8,
-      "points": 14,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8479314,
-      "name": "Matthew Tkachuk",
-      "abbrev": "FLA",
-      "position": "A",
-      "goals": 4,
-      "assists": 12,
-      "points": 20,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 2
-    },
-    {
-      "id": 8478397,
-      "name": "Rasmus Andersson",
-      "abbrev": "VGK",
-      "position": "D",
-      "goals": 2,
-      "assists": 3,
-      "points": 12,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8486067,
-      "name": "Gavin McKenna",
-      "abbrev": "TOR",
-      "position": "A",
-      "goals": 3,
-      "assists": 5,
-      "points": 11,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8480830,
-      "name": "Andrei Svechnikov",
-      "abbrev": "CAR",
-      "position": "A",
-      "goals": 6,
-      "assists": 6,
-      "points": 18,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8476462,
-      "name": "Dougie Hamilton",
-      "abbrev": "NJD",
-      "position": "D",
-      "goals": 1,
-      "assists": 4,
-      "points": 11,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8481581,
-      "name": "Thomas Harley",
-      "abbrev": "DAL",
-      "position": "D",
-      "goals": 0,
-      "assists": 5,
-      "points": 10,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 2
-    },
-    {
-      "id": 8483495,
-      "name": "Simon Nemec",
-      "abbrev": "CGY",
-      "position": "D",
-      "goals": 0,
-      "assists": 3,
-      "points": 6,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8477346,
-      "name": "MacKenzie Weegar",
-      "abbrev": "UTA",
-      "position": "D",
-      "goals": 2,
-      "assists": 2,
-      "points": 10,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8482737,
-      "name": "Zachary Bolduc",
-      "abbrev": "MTL",
-      "position": "A",
-      "goals": 4,
-      "assists": 2,
-      "points": 10,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
-      "id": 8475809,
-      "name": "Scott Wedgewood",
-      "abbrev": "COL",
-      "position": "G",
-      "goals": 0,
-      "assists": 0,
-      "points": 5,
-      "wins": 1,
-      "shutouts": 0,
-      "otLosses": 1,
-      "pts_last": 0
-    },
-    {
-      "id": 8478402,
-      "name": "Connor McDavid",
-      "abbrev": "EDM",
-      "position": "A",
-      "goals": 8,
-      "assists": 25,
-      "points": 41,
-      "wins": 0,
-      "shutouts": 0,
-      "otLosses": 0,
-      "pts_last": 0
-    },
-    {
       "id": 8480027,
       "name": "Jason Robertson",
       "abbrev": "DAL",
@@ -4905,7 +4697,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 4
+      "pts_last": 0
     },
     {
       "id": 8480018,
@@ -4931,7 +4723,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 1
+      "pts_last": 0
     },
     {
       "id": 8477493,
@@ -5022,7 +4814,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 2
+      "pts_last": 0
     },
     {
       "id": 8479987,
@@ -5038,17 +4830,43 @@
       "pts_last": 0
     },
     {
+      "id": 8481581,
+      "name": "Thomas Harley",
+      "abbrev": "DAL",
+      "position": "D",
+      "goals": 0,
+      "assists": 5,
+      "points": 10,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8483495,
+      "name": "Simon Nemec",
+      "abbrev": "CGY",
+      "position": "D",
+      "goals": 0,
+      "assists": 5,
+      "points": 10,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 4
+    },
+    {
       "id": 8476454,
       "name": "Ryan Nugent-Hopkins",
       "abbrev": "EDM",
       "position": "A",
       "goals": 1,
-      "assists": 1,
-      "points": 3,
+      "assists": 2,
+      "points": 4,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 1
     },
     {
       "id": 8482702,
@@ -5074,7 +4892,7 @@
       "wins": 6,
       "shutouts": 3,
       "otLosses": 1,
-      "pts_last": 4
+      "pts_last": 0
     },
     {
       "id": 8479406,
@@ -5103,6 +4921,188 @@
       "pts_last": 0
     },
     {
+      "id": 8477492,
+      "name": "Nathan MacKinnon",
+      "abbrev": "COL",
+      "position": "A",
+      "goals": 7,
+      "assists": 14,
+      "points": 28,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8481559,
+      "name": "Jack Hughes",
+      "abbrev": "NJD",
+      "position": "A",
+      "goals": 3,
+      "assists": 9,
+      "points": 15,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8481540,
+      "name": "Cole Caufield",
+      "abbrev": "MTL",
+      "position": "A",
+      "goals": 6,
+      "assists": 4,
+      "points": 16,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8478420,
+      "name": "Mikko Rantanen",
+      "abbrev": "DAL",
+      "position": "A",
+      "goals": 6,
+      "assists": 8,
+      "points": 20,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8480801,
+      "name": "Brady Tkachuk",
+      "abbrev": "FLA",
+      "position": "A",
+      "goals": 7,
+      "assists": 5,
+      "points": 19,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8476459,
+      "name": "Mika Zibanejad",
+      "abbrev": "NYR",
+      "position": "A",
+      "goals": 3,
+      "assists": 8,
+      "points": 14,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8479314,
+      "name": "Matthew Tkachuk",
+      "abbrev": "FLA",
+      "position": "A",
+      "goals": 4,
+      "assists": 12,
+      "points": 20,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8478397,
+      "name": "Rasmus Andersson",
+      "abbrev": "VGK",
+      "position": "D",
+      "goals": 2,
+      "assists": 3,
+      "points": 12,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8486067,
+      "name": "Gavin McKenna",
+      "abbrev": "TOR",
+      "position": "A",
+      "goals": 3,
+      "assists": 5,
+      "points": 11,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8480830,
+      "name": "Andrei Svechnikov",
+      "abbrev": "CAR",
+      "position": "A",
+      "goals": 6,
+      "assists": 6,
+      "points": 18,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8476462,
+      "name": "Dougie Hamilton",
+      "abbrev": "NJD",
+      "position": "D",
+      "goals": 1,
+      "assists": 4,
+      "points": 11,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8477346,
+      "name": "MacKenzie Weegar",
+      "abbrev": "UTA",
+      "position": "D",
+      "goals": 2,
+      "assists": 2,
+      "points": 10,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8482737,
+      "name": "Zachary Bolduc",
+      "abbrev": "MTL",
+      "position": "A",
+      "goals": 4,
+      "assists": 2,
+      "points": 10,
+      "wins": 0,
+      "shutouts": 0,
+      "otLosses": 0,
+      "pts_last": 0
+    },
+    {
+      "id": 8475809,
+      "name": "Scott Wedgewood",
+      "abbrev": "COL",
+      "position": "G",
+      "goals": 0,
+      "assists": 0,
+      "points": 5,
+      "wins": 1,
+      "shutouts": 0,
+      "otLosses": 1,
+      "pts_last": 0
+    },
+    {
       "id": 8480800,
       "name": "Quinn Hughes",
       "abbrev": "MIN",
@@ -5113,7 +5113,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 5
+      "pts_last": 0
     },
     {
       "id": 8477956,
@@ -5134,25 +5134,25 @@
       "abbrev": "TOR",
       "position": "A",
       "goals": 9,
-      "assists": 10,
-      "points": 28,
+      "assists": 11,
+      "points": 29,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 1
     },
     {
       "id": 8477939,
       "name": "William Nylander",
       "abbrev": "TOR",
       "position": "A",
-      "goals": 8,
+      "goals": 9,
       "assists": 10,
-      "points": 26,
+      "points": 28,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 2
     },
     {
       "id": 8482740,
@@ -5165,7 +5165,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 3
+      "pts_last": 0
     },
     {
       "id": 8478483,
@@ -5230,7 +5230,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 1
+      "pts_last": 0
     },
     {
       "id": 8478013,
@@ -5308,7 +5308,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 3
+      "pts_last": 0
     },
     {
       "id": 8471675,
@@ -5399,7 +5399,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 2
+      "pts_last": 0
     },
     {
       "id": 8478038,
@@ -5412,7 +5412,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 3
+      "pts_last": 0
     },
     {
       "id": 8484873,
@@ -5542,7 +5542,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 5
+      "pts_last": 0
     },
     {
       "id": 8477955,
@@ -5672,7 +5672,7 @@
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 1
+      "pts_last": 0
     },
     {
       "id": 8483445,
@@ -5692,13 +5692,13 @@
       "name": "J.T. Miller",
       "abbrev": "NYR",
       "position": "A",
-      "goals": 3,
+      "goals": 4,
       "assists": 6,
-      "points": 12,
+      "points": 14,
       "wins": 0,
       "shutouts": 0,
       "otLosses": 0,
-      "pts_last": 0
+      "pts_last": 2
     },
     {
       "id": 8480045,
